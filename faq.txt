@@ -1,0 +1,2 @@
+git remote add "name of remote repository" git@github.com:"username"/"name of repository"
+$ git remote add gitskills git@github.com:piscesandcrab/gitskills.git
