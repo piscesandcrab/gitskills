@@ -2,3 +2,5 @@ git remote add "samble of remote repository" git@github.com:"username"/"name of 
 $ git remote add gitskills git@github.com:piscesandcrab/gitskills.git
 
 git push "samble of remote repository" master
+
+git clone
