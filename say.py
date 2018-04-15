@@ -1,8 +1,10 @@
-#_*_ coding: UTF-8 _*_
+# _*_ coding: UTF-8 _*_
 
-#from urllib import request
-import urllib.request
+from urllib import request
+import chardet
 
 if __name__ == "__main__":
-    respone = urllib.request.urlopen("https://github.com")
-    print(respone.read())
+    respone = request.urlopen("https://fanyi.baidu.com")
+    html = respone.read()
+    charset = chardet.detect(html)
+    print(charset)
