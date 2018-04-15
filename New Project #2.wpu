@@ -9,9 +9,12 @@ cache.last-mime-type = {loc('unknown:<untitled> #14'): 'text/x-diff',
                         loc('unknown:<untitled> #12'): 'text/x-diff',
                         loc('unknown:<untitled> #13'): 'text/x-diff',
                         loc('unknown:<untitled> #11'): 'text/x-diff',
+                        loc('unknown:<untitled> #21'): 'text/x-diff',
+                        loc('unknown:<untitled> #23'): 'text/x-diff',
                         loc('unknown:<untitled> #18'): 'text/x-diff',
                         loc('unknown:<untitled> #16'): 'text/x-diff',
-                        loc('unknown:<untitled> #19'): 'text/x-diff'}
+                        loc('unknown:<untitled> #19'): 'text/x-diff',
+                        loc('unknown:<untitled> #25'): 'text/x-diff'}
 edit.file-encoding = {loc('say.py'): 'UTF-8'}
 guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                             'windows': [{'name': 'oRVXuHK3h8GMVzz0uZDwNCSvxg'\
